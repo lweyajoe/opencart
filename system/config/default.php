@@ -1,6 +1,6 @@
 <?php
 // Site
-$_['site_url']             = 'macplace.heroku.app';
+$_['site_url']             = 'macplace.herokuapp.com';
 
 // Language
 $_['language_code']        = 'en-gb';
