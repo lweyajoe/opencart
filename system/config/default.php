@@ -1,6 +1,6 @@
 <?php
 // Site
-$_['site_url']             = '';
+$_['site_url']             = 'macplace.heroku.app';
 
 // Language
 $_['language_code']        = 'en-gb';
@@ -11,7 +11,7 @@ $_['date_timezone']        = 'UTC';
 // Database
 $_['db_autostart']         = false;
 $_['db_engine']            = 'mysqli'; // mysqli, pdo or pgsql
-$_['db_hostname']          = 'localhost';
+$_['db_hostname']          = '197.248.5.4';
 $_['db_username']          = 'easymacb_admin';
 $_['db_password']          = 'Lee@Joe2022!';
 $_['db_database']          = 'easymacb_joe';
